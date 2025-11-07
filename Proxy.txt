@@ -1,0 +1,1 @@
+1 proxy mỗi dòng http://user:pass@123.45.67.89:8080
