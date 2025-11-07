@@ -1,0 +1,5 @@
+{
+  "rpc_url": "https://fullnode.testnet.sui.io/",
+  "creek_api_url": "https://api-test.creek.finance/api/user/connect",
+  "wallet_interval_seconds": 15
+}
