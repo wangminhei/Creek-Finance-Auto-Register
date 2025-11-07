@@ -1,1 +1,1 @@
-nhập prikey mỗi dòng nếu nhiều hơn 1
+Private Key ,1 key mỗi dòng
